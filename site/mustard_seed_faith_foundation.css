@@ -1,0 +1,522 @@
+/*leftMain styles*/
+
+
+#leftMain
+{
+	width: 478px;
+	height: 321px;
+	background-repeat: no-repeat;
+	margin-top: 0.5em;
+	float: left;
+	padding-top: 1em;
+	padding-right: 0.4em;
+	padding-bottom: 0;
+	padding-left: 2em;
+	background-image: url(../images/leftContent.jpg);
+	background-color: #FFF;
+}
+
+#leftMain a
+{
+    color: #4c7f98;
+}
+#leftMain a:hover
+{
+    text-decoration: none;
+}
+
+#leftMain h1
+{
+	text-transform: uppercase;
+	color: #4c7f98;
+	font-size: 1.5em;
+	margin-left: 0.4em;
+	margin-bottom: 0.3em;
+}
+
+/*position styles*/
+#rightMain1
+{
+	width: 100px;
+	float: left;
+	margin-top: 1.7em;
+	margin-left: 0.6em;
+}
+
+
+#rightMain h1.positionTitle
+{
+    background: url(    '../images/positionheadingBg.jpg' );
+    background-repeat: no-repeat;
+    width: 377px;
+    height: 26px;
+    margin-top: 1em;
+    color: #fff;
+    padding-left: 3.5em;
+    padding-top: 0.2em;
+    float: left;
+    margin: 1.5em 0 0 0em;
+}
+#rightMain .positionContent
+{
+    padding: 0em;
+    width: 401px;
+    background-color: #f1eede;
+    float: left;
+    clear: left;
+    margin: 0 0 0 0;
+    padding: 0.8em;
+}
+
+span.positionLink
+{
+    padding-left: 0.3em;
+    font-size: 11px;
+    float: right;
+    margin-right: 0.5em;
+}
+
+
+
+/*leftMain eventList*/
+
+.navcontainer
+{
+    clear: left;
+    float: left;
+}
+
+.navcontainer ul
+{
+    list-style-type: none;
+    padding-top: 1em;
+    clear: left;
+    width: 415px;
+    margin-bottom: 2em;
+}
+
+.navcontainer a
+{
+    display: block;
+    padding: 6px 3px 6px 3px;
+    width: 415px;
+    background-color: #f0ecdb;
+    border-bottom: 5px solid #fff;
+    color: #7d7b73;
+    font-size: 11px;
+    padding-left: 1em;
+}
+
+.navcontainer a:link, .navlist a:visited
+{
+    color: #EEE;
+    text-decoration: none;
+}
+
+#leftMain .navcontainer a:hover
+{
+    background-color: #0082c5;
+    color: #fff;
+}
+
+
+
+/*story list*/
+
+.navcontainerStory
+{
+    clear: left;
+    float: left;
+}
+
+#leftMain .navcontainerStory a h1
+{
+    font-size: 1.2em;
+}
+
+#leftMain .navcontainerStory p
+{
+    font-size: 11px;
+    margin-top: 0;
+    padding-top: 0.5em;
+}
+
+.navcontainerStory ul
+{
+    list-style-type: none;
+    padding-top: 1em;
+    clear: left;
+    width: 415px;
+    margin-bottom: 2em;
+}
+
+
+
+#leftMain .navcontainerStory a
+{
+    display: block;
+    padding: 12px 3px 12px 3px;
+    width: 415px;
+    background-color: #f0ecdb;
+    margin-bottom: 15px;
+    border: 2px solid #e2decb;
+    color: #7d7b73;
+    font-size: 11px;
+    padding-left: 1em;
+}
+
+.navcontainerStory a:link, .navlist a:visited
+{
+    color: #EEE;
+    text-decoration: none;
+}
+
+#leftMain .navcontainerStory a:hover
+{
+    background-color: #f7f4e9;
+}
+
+
+span.volunteerLink
+{
+    padding-left: 0.3em;
+    font-size: 11px;
+    float: right;
+    margin-top: -1em;
+    margin-right: 4em;
+}
+
+#rightMain span.volunteerLink a
+{
+    color: #fff;
+}
+
+
+#rightMain .positionContent p
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+#rightMain .positionContent p.positiondescription
+{
+    clear: left;
+    padding-top: 0.5em;
+    float: left;
+    width: 400px;
+}
+
+#leftMain h1.secondaryHeader
+{
+    margin-top: 1.5em;
+}
+
+img.leftDivider
+{
+    float: left;
+}
+
+#leftMain p
+{
+	padding-top: 1.5em;
+	padding-right: 3em;
+	padding-bottom: 0;
+	padding-left: 0.6em;
+}
+#leftMain p span.firstLetter
+{
+    float: left;
+    color: #b9b7ab;
+    font-weight: bold;
+    font-size: 75px;
+    line-height: 55px;
+    margin: 5px 10px 5px 0;
+    border: 1px solid #eae7d8;
+    padding: 0.05em 0.1em 0.1em 0.1em;
+    background-color: #f1eede;
+}
+
+
+#leftMain .cupsAddress p
+{
+    float: left;
+}
+
+#leftMain .cupsAddress
+{
+    float: left;
+    clear: left;
+    width: 420px;
+}
+
+#leftMain .cupsAddress img.contactMaps
+{
+    float: right;
+    margin-top: 1em;
+    width: 160px;
+    border: 0px;
+    height: 96px;
+}
+
+#leftMain .cupsAddress a img.contactMaps
+{
+    border: 0px;
+}
+
+#rightMain .cupsAddress a img.contactMaps
+{
+    border: 0px;
+}
+
+/*leftMain styles end*/
+
+/*rightMain styles begin*/
+
+#rightMain
+{
+	width: 500px;
+	float: left;
+	margin-top: 0.5em;
+	margin-right: 0em;
+	margin-bottom: 0em;
+	margin-left: 0em;
+	height: auto;
+}
+
+
+
+#rightMain #rightHome p
+{
+    float: left;
+    clear: none;
+    padding-top: 0px;
+    width: 225px;
+    margin-left: 1.3em;
+    margin-left: 0.5em;
+    color: #fff;
+    padding-right: 0.6em;
+}
+
+
+
+#rightMain #rightHome
+{
+	background-color: #FFF;
+	border-left: 168px solid #f1eede;
+	height: auto !important;
+	height: 268px;
+	width: 330px;
+	float: left;
+	clear: both;
+	margin: 0em;
+	padding: 0em;
+}
+#rightMain #rightHome img.eventsTitle
+{
+    margin-left: -168px;
+    position: relative;
+    float: left;
+    clear: left;
+}
+
+#rightMain h1
+{
+	text-transform: uppercase;
+	float: left;
+	margin-top: 0.9em;
+	color: #4c7f98;
+	font-size: 0.9em;
+	margin-bottom: 0.3em;
+	background-repeat: no-repeat;
+	background-position: 0px;
+}
+
+#rightMain h1 img
+{
+    float: left;
+    margin-top: 0.1em;
+    margin-right: 0.5em;
+    margin-left: 1em;
+}
+#rightMain img.homenewsDivider
+{
+    float: left;
+    margin-left: 1em;
+}
+
+#rightMain img.homeeventsDivider
+{
+	float: left;
+	margin-left: -168px;
+	position: relative;
+	padding-top: 3.5em;
+	padding-left: 1.2em;
+	padding-bottom: 2em;
+}
+
+#rightMain h1.newsHeading
+{
+    color: #fff;
+}
+
+/* viedo object*/
+
+#object
+{
+	width: 330px;
+	height: auto !important;
+	height: 255px;
+	float: right;
+	padding-top: 10px;
+	padding-right: 0em;
+	padding-bottom: 20px;
+	padding-left: 0em;
+	margin-top: 0em;
+	margin-right: 0em;
+	margin-bottom: 1em;
+	margin-left: 0em;
+	
+}
+
+
+#rightHome ul.eventList
+{
+	float: left;
+	margin-left: -165px;
+	position: relative;
+	font-size: 1em;
+	width: 135px;
+	list-style-type: none;
+	margin-top: 0em;
+	padding-top: 5.5em;
+	padding-right: 0em;
+	padding-bottom: 0em;
+	padding-left: 1.1em;
+}
+
+#rightHome ul.eventList li.lastEvent
+{
+    padding-bottom: 1.5em;
+}
+
+
+#rightHome h1.eventHeading
+{
+    margin-left: -165px;
+    position: relative;
+    padding: 0.01em 0em 0em 1em;
+}
+
+#rightHome ul.eventList li.lastEvent
+{
+    padding-bottom: 1.5em;
+}
+
+
+#rightHome h1.eventHeading
+{
+    margin-left: -165px;
+    position: relative;
+    padding: 0.01em 0em 0em 1em;
+}
+
+#rightHome h1.eventHeading span
+{
+    font-size: 12px;
+}
+
+#rightHome ul li
+{
+	line-height: 15px;
+	padding-top: 0em;
+	padding-left: 1.5em;
+	background-position: 0 1.5em;
+	padding-bottom: 1.8em;
+}
+
+/*rightMain styles end*/
+
+
+
+
+/* ### RIGHT CONTAINER ### */
+#rightCntr {
+	float: right;
+	width: 310px;
+	padding-top: 10px;
+}
+		
+	/* ### FOLLOW BOX ### */
+	followBox { padding-top: 43px; }
+	.followBox .twitter {
+	font-style: italic;
+	color: #6b6b6a;
+	padding-top: 2em;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 120px;
+	font-family: 'Bodoni Bk BT', Arial;
+	font-size: 15px;
+	background-image: url(../images/twitter.jpg);
+	background-repeat: no-repeat;
+	background-position: 60px 0px;
+	width: 180px;
+	height: 65px;
+}
+	.followBox .twitter a {
+	text-decoration: none;
+	color: #09F;
+}
+	.followBox .twitter a:hover { color: #e51a9b; }
+	.followBox .social {
+	width: 280px;
+	overflow: hidden;
+	padding-top: 2px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+	.followBox .social h4 {
+	color: #666;
+	text-align: center;
+	background-repeat: no-repeat;
+	background-position: 0px center;
+	font-family: "MS Serif", "New York", serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	padding-right: 0px;
+	padding-left: 35px;
+}
+			.followBox .social h4 span {
+	background: #f2f2f0;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+			.followBox .social ul { padding-right: 10px; float: right; }
+			.followBox .social ul li { padding-top: 8px; list-style: none; float: left; }
+			.followBox .social ul li a { display: block; width: 32px; height: 34px; text-indent: -9999px; background: url('../images/icon1.jpg') left top no-repeat; }
+			.followBox .social ul li a.flickr { background: url('../images/icon2.jpg') left top no-repeat; }
+			.followBox .social ul li a.posterous { background: url('../images/icon3.jpg') left top no-repeat; }
+			.followBox .social ul li a.linkedin {
+	background-image: url(../images/icon4.png);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+			.followBox .social ul li a.friendfeed { background: url('../images/icon5.jpg') left top no-repeat; }
+			.followBox .social ul li a.digg { background: url('../images/icon6.jpg') left top no-repeat; }
+			.followBox .social ul li a.delicious { background: url('../images/icon7.jpg') left top no-repeat; }
+			
+ul.errors {
+	color: red;
+}
+	
+#rightMain #rightHome .eventList li {
+	color: #090;
+	background-image: url(../images/blinkIconwhite.gif);
+	background-repeat: no-repeat;
+	background-position: left 4px;
+}
